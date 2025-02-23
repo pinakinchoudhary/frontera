@@ -1,0 +1,14 @@
+temporalio
+streamlit
+st_audiorec
+librosa
+numpy
+pandas
+tensorflow
+tensorflow-hub
+torch
+soundfile
+transformers
+tqdm
+audioset-download
+pydub
